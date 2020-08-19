@@ -1,0 +1,21 @@
+c:\users\hp\documents\visual studio 2013\Projects\B_S_T\B_S_T\bin\Debug\B_S_T.exe.config
+C:\Users\hp\documents\visual studio 2013\Projects\B_S_T\B_S_T\obj\Debug\B_S_T.csprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2013\Projects\B_S_T\B_S_T\bin\Debug\B_S_T.exe
+C:\Users\hp\documents\visual studio 2013\Projects\B_S_T\B_S_T\bin\Debug\B_S_T.pdb
+C:\Users\hp\documents\visual studio 2013\Projects\B_S_T\B_S_T\obj\Debug\B_S_T.exe
+C:\Users\hp\documents\visual studio 2013\Projects\B_S_T\B_S_T\obj\Debug\B_S_T.pdb
+C:\Users\hp\Desktop\B_S_T\B_S_T\bin\Debug\B_S_T.exe.config
+C:\Users\hp\Desktop\B_S_T\B_S_T\obj\Debug\B_S_T.exe
+C:\Users\hp\Desktop\B_S_T\B_S_T\obj\Debug\B_S_T.pdb
+C:\Users\hp\Desktop\B_S_T\B_S_T\bin\Debug\B_S_T.exe
+C:\Users\hp\Desktop\B_S_T\B_S_T\bin\Debug\B_S_T.pdb
+C:\Users\hp\Desktop\B_S_T\B_S_T\obj\Debug\B_S_T.csprojResolveAssemblyReference.cache
+D:\downloads\B_S_T\B_S_T\bin\Debug\B_S_T.exe.config
+D:\downloads\B_S_T\B_S_T\obj\Debug\B_S_T.exe
+D:\downloads\B_S_T\B_S_T\obj\Debug\B_S_T.pdb
+D:\downloads\B_S_T\B_S_T\bin\Debug\B_S_T.exe
+D:\downloads\B_S_T\B_S_T\bin\Debug\B_S_T.pdb
+D:\downloads\B_S_T\B_S_T\obj\Debug\B_S_T.csprojResolveAssemblyReference.cache
+D:\downloads\projects\B_S_T\B_S_T\bin\Debug\B_S_T.exe.config
+D:\downloads\projects\B_S_T\B_S_T\obj\Debug\B_S_T.exe
+D:\downloads\projects\B_S_T\B_S_T\obj\Debug\B_S_T.pdb
