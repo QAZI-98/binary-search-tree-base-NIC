@@ -1,3 +1,3 @@
-# binary-search-tree-base-NIC
+# binary-search-tree-based-NIC
 
 ![](screens/1.png)
